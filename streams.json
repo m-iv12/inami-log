@@ -16163,5 +16163,19 @@
   "own": false,
   "game": "同時視聴",
   "collabs": []
+ },
+ {
+  "id": "UOq82lq0mSU",
+  "title": "【 #伊波ライ新衣装 】新衣装お披露目させてくれ！！！！！【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-10-20T12:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=UOq82lq0mSU",
+  "thumb": "https://i.ytimg.com/vi/UOq82lq0mSU/mqdefault_live.jpg",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "#伊波ライ新衣装",
+  "collabs": []
  }
 ]
