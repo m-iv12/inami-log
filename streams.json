@@ -16168,14 +16168,28 @@
   "id": "UOq82lq0mSU",
   "title": "【 #伊波ライ新衣装 】新衣装お披露目させてくれ！！！！！【 伊波ライ / にじさんじ 】",
   "kind": "stream",
-  "status": "upcoming",
-  "start": "2026-10-20T12:00:00Z",
-  "end": null,
+  "status": "done",
+  "start": "2026-10-20T12:01:48Z",
+  "end": "2026-10-20T12:42:16Z",
   "url": "https://www.youtube.com/watch?v=UOq82lq0mSU",
   "thumb": "https://i.ytimg.com/vi/UOq82lq0mSU/mqdefault_live.jpg",
   "channel": "伊波ライ / Inami Rai【にじさんじ】",
   "own": true,
   "game": "#伊波ライ新衣装",
+  "collabs": []
+ },
+ {
+  "id": "TX40BTFFipU",
+  "title": "【 歌ってみた 】君色に染まる / 伊波ライ",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-10-20T13:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=TX40BTFFipU",
+  "thumb": "https://i.ytimg.com/vi/TX40BTFFipU/mqdefault.jpg",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "歌ってみた",
   "collabs": []
  }
 ]
