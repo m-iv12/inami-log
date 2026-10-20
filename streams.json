@@ -16182,14 +16182,28 @@
   "id": "TX40BTFFipU",
   "title": "【 歌ってみた 】君色に染まる / 伊波ライ",
   "kind": "stream",
-  "status": "upcoming",
-  "start": "2026-10-20T13:00:00Z",
-  "end": null,
+  "status": "done",
+  "start": "2026-10-20T13:00:08Z",
+  "end": "2026-10-20T13:05:17Z",
   "url": "https://www.youtube.com/watch?v=TX40BTFFipU",
   "thumb": "https://i.ytimg.com/vi/TX40BTFFipU/mqdefault.jpg",
   "channel": "伊波ライ / Inami Rai【にじさんじ】",
   "own": true,
   "game": "歌ってみた",
+  "collabs": []
+ },
+ {
+  "id": "RF1fkz3b6JI",
+  "title": "【 OVERWATCH 】チム３顔合わせの顔合わせ【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-10-20T14:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=RF1fkz3b6JI",
+  "thumb": "https://i.ytimg.com/vi/RF1fkz3b6JI/mqdefault_live.jpg",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "OVERWATCH",
   "collabs": []
  }
 ]
