@@ -16219,5 +16219,19 @@
   "own": true,
   "game": "アークナイツ：エンドフィールド",
   "collabs": []
+ },
+ {
+  "id": "cBNN1sGy5VY",
+  "title": "【 OVERWATCH 】これは練習でしょう普通に【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-10-21T16:45:11Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=cBNN1sGy5VY",
+  "thumb": "https://i.ytimg.com/vi/cBNN1sGy5VY/mqdefault_live.jpg",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "OVERWATCH",
+  "collabs": []
  }
 ]
