@@ -16247,5 +16247,19 @@
   "own": true,
   "game": "その他",
   "collabs": []
+ },
+ {
+  "id": "52bN7TWtQds",
+  "title": "【 OVERWATCH 】チーム３深夜練【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-10-22T14:01:41Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=52bN7TWtQds",
+  "thumb": "https://i.ytimg.com/vi/52bN7TWtQds/mqdefault.jpg?v=6ada1448",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "OVERWATCH",
+  "collabs": []
  }
 ]
