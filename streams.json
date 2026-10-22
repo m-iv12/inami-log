@@ -16233,5 +16233,19 @@
   "own": true,
   "game": "OVERWATCH",
   "collabs": []
+ },
+ {
+  "id": "CicIH3LL7g4",
+  "title": "伊波ライ 1st Mini Album 『Hero』クロスフェード",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-10-22T12:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=CicIH3LL7g4",
+  "thumb": "https://i.ytimg.com/vi/CicIH3LL7g4/mqdefault.jpg",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "その他",
+  "collabs": []
  }
 ]
