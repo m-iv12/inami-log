@@ -16261,5 +16261,19 @@
   "own": true,
   "game": "OVERWATCH",
   "collabs": []
+ },
+ {
+  "id": "FUDjjWkKyj0",
+  "title": "【 告知あり 】アルバムが出ます＆ 誕生日ありがとう【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-10-23T11:01:10Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=FUDjjWkKyj0",
+  "thumb": "https://i.ytimg.com/vi/FUDjjWkKyj0/mqdefault.jpg?v=6adb33f3",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "告知あり",
+  "collabs": []
  }
 ]
