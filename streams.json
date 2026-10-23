@@ -16266,14 +16266,28 @@
   "id": "FUDjjWkKyj0",
   "title": "【 告知あり 】アルバムが出ます＆ 誕生日ありがとう【 伊波ライ / にじさんじ 】",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-10-23T11:01:10Z",
-  "end": null,
+  "end": "2026-10-23T11:52:48Z",
   "url": "https://www.youtube.com/watch?v=FUDjjWkKyj0",
-  "thumb": "https://i.ytimg.com/vi/FUDjjWkKyj0/mqdefault.jpg?v=6adb33f3",
+  "thumb": "https://i.ytimg.com/vi/FUDjjWkKyj0/mqdefault.jpg",
   "channel": "伊波ライ / Inami Rai【にじさんじ】",
   "own": true,
   "game": "告知あり",
+  "collabs": []
+ },
+ {
+  "id": "4TaTm9Q6KdU",
+  "title": "【 OVERWATCH 】スクリム参る vs チーム4, 1【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-10-23T12:32:05Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=4TaTm9Q6KdU",
+  "thumb": "https://i.ytimg.com/vi/4TaTm9Q6KdU/mqdefault.jpg?v=6adb51b4",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "OVERWATCH",
   "collabs": []
  }
 ]
