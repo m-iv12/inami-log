@@ -16303,5 +16303,19 @@
   "own": true,
   "game": "OVERWATCH",
   "collabs": []
+ },
+ {
+  "id": "-27aaOTc3Fs",
+  "title": "【 #にじEX_OW 】本番ダパってこう #D4P4WIN【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-10-25T06:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=-27aaOTc3Fs",
+  "thumb": "https://i.ytimg.com/vi/-27aaOTc3Fs/mqdefault.jpg?v=6add93dd",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "#にじEX_OW",
+  "collabs": []
  }
 ]
