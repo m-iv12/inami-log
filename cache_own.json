@@ -15056,11 +15056,11 @@
   "channel": "伊波ライ / Inami Rai【にじさんじ】",
   "channel_id": "UCz89MGFBrAqwJ5xMr5weSuA",
   "url": "https://www.youtube.com/watch?v=texR-ZDSots",
-  "thumb": "https://i.ytimg.com/vi/texR-ZDSots/mqdefault.jpg?v=6ae0b363",
+  "thumb": "https://i.ytimg.com/vi/texR-ZDSots/mqdefault.jpg",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-10-27T14:32:56Z",
-  "end": null,
+  "end": "2026-10-27T20:32:18Z",
   "own": true
  }
 }
