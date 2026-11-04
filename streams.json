@@ -16429,5 +16429,33 @@
   "own": true,
   "game": "雑談",
   "collabs": []
+ },
+ {
+  "id": "yCmR_0bk90U",
+  "title": "【 スプラ３ 】哀愁漂う対抗戦うおおおお【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-04T10:27:06Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=yCmR_0bk90U",
+  "thumb": "https://i.ytimg.com/vi/yCmR_0bk90U/mqdefault.jpg?v=6aeb07a0",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "スプラトゥーン3",
+  "collabs": []
+ },
+ {
+  "id": "0H-NmTOy6Vs",
+  "title": "【 アークナイツ：エンドフィールド 】ミンホ、参戦【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-05T13:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=0H-NmTOy6Vs",
+  "thumb": "https://i.ytimg.com/vi/0H-NmTOy6Vs/mqdefault.jpg?v=6aeb0151",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "アークナイツ：エンドフィールド",
+  "collabs": []
  }
 ]
