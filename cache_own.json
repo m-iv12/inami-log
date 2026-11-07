@@ -15224,11 +15224,11 @@
   "channel": "伊波ライ / Inami Rai【にじさんじ】",
   "channel_id": "UCz89MGFBrAqwJ5xMr5weSuA",
   "url": "https://www.youtube.com/watch?v=zW34i8MSUBs",
-  "thumb": "https://i.ytimg.com/vi/zW34i8MSUBs/mqdefault.jpg?v=6aeeb1bc",
+  "thumb": "https://i.ytimg.com/vi/zW34i8MSUBs/mqdefault.jpg",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-11-07T05:35:51Z",
-  "end": null,
+  "end": "2026-11-07T09:14:05Z",
   "own": true
  }
 }
