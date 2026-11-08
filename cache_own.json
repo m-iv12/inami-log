@@ -15240,9 +15240,9 @@
   "url": "https://www.youtube.com/watch?v=AsuLcucqd40",
   "thumb": "https://i.ytimg.com/vi/AsuLcucqd40/mqdefault.jpg?v=6aeff58a",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-11-08T04:31:14Z",
-  "end": null,
+  "end": "2026-11-08T06:51:13Z",
   "own": true
  }
 }
