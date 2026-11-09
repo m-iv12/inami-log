@@ -16513,5 +16513,19 @@
   "own": true,
   "game": "にじイカ祭り2026",
   "collabs": []
+ },
+ {
+  "id": "VLxgwlmWmSY",
+  "title": "【 スーパーマリオサンシャイン 】#3 全てを忘れました【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-09T13:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=VLxgwlmWmSY",
+  "thumb": "https://i.ytimg.com/vi/VLxgwlmWmSY/mqdefault.jpg?v=6af1b4e0",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "スーパーマリオサンシャイン",
+  "collabs": []
  }
 ]
