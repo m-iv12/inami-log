@@ -16541,5 +16541,19 @@
   "own": true,
   "game": "スーパーマリオサンシャイン",
   "collabs": []
+ },
+ {
+  "id": "KfD_L5v4ms0",
+  "title": "【 マリオカート8DX 】#ただカンWIN【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-12T12:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=KfD_L5v4ms0",
+  "thumb": "https://i.ytimg.com/vi/KfD_L5v4ms0/mqdefault.jpg?v=6af5a42d",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "マリオカート8DX",
+  "collabs": []
  }
 ]
