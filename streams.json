@@ -16555,5 +16555,19 @@
   "own": true,
   "game": "マリオカート8DX",
   "collabs": []
+ },
+ {
+  "id": "hwBwBrZKNFM",
+  "title": "【 スプラ3 】哀愁による2次会サーモンラン【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-13T13:15:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=hwBwBrZKNFM",
+  "thumb": "https://i.ytimg.com/vi/hwBwBrZKNFM/mqdefault.jpg?v=6af6facf",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "スプラトゥーン3",
+  "collabs": []
  }
 ]
