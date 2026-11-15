@@ -16583,5 +16583,19 @@
   "own": true,
   "game": "絶対遵守",
   "collabs": []
+ },
+ {
+  "id": "qm_eXAc_cQw",
+  "title": "【 とり集 】深夜2時【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-15T17:20:23Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=qm_eXAc_cQw",
+  "thumb": "https://i.ytimg.com/vi/qm_eXAc_cQw/mqdefault.jpg?v=6af9e531",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "とり集",
+  "collabs": []
  }
 ]
