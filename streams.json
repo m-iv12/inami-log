@@ -16597,5 +16597,19 @@
   "own": true,
   "game": "とり集",
   "collabs": []
+ },
+ {
+  "id": "TN-iJ2iJNqA",
+  "title": "【 時オカリメイク 】#1 神のリメイクきたああああああ【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-17T10:02:22Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=TN-iJ2iJNqA",
+  "thumb": "https://i.ytimg.com/vi/TN-iJ2iJNqA/mqdefault.jpg?v=6afc1b31",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "時オカリメイク",
+  "collabs": []
  }
 ]
