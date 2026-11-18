@@ -16625,5 +16625,19 @@
   "own": true,
   "game": "APEX",
   "collabs": []
+ },
+ {
+  "id": "KjMRLiwqb54",
+  "title": "【 時オカリメイク 】#2 大冒険が始まる。デスマウンテン～【 伊波ライ / にじさんじ 】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-18T14:02:35Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=KjMRLiwqb54",
+  "thumb": "https://i.ytimg.com/vi/KjMRLiwqb54/mqdefault.jpg?v=6afda87f",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "時オカリメイク",
+  "collabs": []
  }
 ]
