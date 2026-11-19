@@ -16639,5 +16639,33 @@
   "own": true,
   "game": "時オカリメイク",
   "collabs": []
+ },
+ {
+  "id": "FjtRXQgnY7Q",
+  "title": "【 スト6 】漢達の対戦会 w / KNT, ひば, テンテテン, みなせ3【 伊波ライ/にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-11-19T12:01:13Z",
+  "end": "2026-11-19T12:32:04Z",
+  "url": "https://www.youtube.com/watch?v=FjtRXQgnY7Q",
+  "thumb": "https://i.ytimg.com/vi/FjtRXQgnY7Q/mqdefault.jpg",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "スト6",
+  "collabs": []
+ },
+ {
+  "id": "5vY1e4OfkXo",
+  "title": "【 スト6 】漢達の対戦会② w / KNT, ひば, テンテテン, みなせ3【 伊波ライ/にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-11-19T12:33:46Z",
+  "end": "2026-11-19T14:57:32Z",
+  "url": "https://www.youtube.com/watch?v=5vY1e4OfkXo",
+  "thumb": "https://i.ytimg.com/vi/5vY1e4OfkXo/mqdefault.jpg",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": true,
+  "game": "スト6",
+  "collabs": []
  }
 ]
